@@ -20,18 +20,18 @@
     </tr>
 </table>
 
-# Project Title
+# 🍒Project Title
 Enter a brief description to introduce your project.
 
-## Featured Image
+## 🖼Featured Image
 Add your featured image here.
 
-## Table of Contents
+## 📶Table of Contents
 - STEP #01
 - STEP #02
 - STEP #03
 
-## Prerequisites
+## ⁉️Prerequisites
 What things you require before running the software and how you can install them.
 
 ```
@@ -44,7 +44,7 @@ Mention all the commands.
 ```
 
 
-## Getting Started
+## 🎓Getting Started
 
 ### → STEP #01
 
@@ -61,11 +61,11 @@ Duis rhoncus velit nec est condimentum feugiat. Donec aliquam augue nec gravida 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed sapien quam. Sed dapibus est id enim facilisis, at posuere turpis adipiscing. Quisque sit amet dui dui.
 Duis rhoncus velit nec est condimentum feugiat. Donec aliquam augue nec gravida lobortis. Nunc arcu mi, pretium quis dolor id, iaculis euismod ligula. Donec tincidunt gravida lacus eget lacinia.
 
-## Contribute
+## 🎮Contribute
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed sapien quam. Sed dapibus est id enim facilisis, at posuere turpis adipiscing. Quisque sit amet dui dui.
 Duis rhoncus velit nec est condimentum feugiat. Donec aliquam augue nec gravida lobortis. Nunc arcu mi, pretium quis dolor id, iaculis euismod ligula. Donec tincidunt gravida lacus eget lacinia.
 
-## Changelog
+## 📚Changelog
 
 ### Version 1.x.x
 - FIX: Lorem ipsum `lorem-ipsum`
@@ -82,10 +82,10 @@ Duis rhoncus velit nec est condimentum feugiat. Donec aliquam augue nec gravida 
 - UPDATE: Lorem ipsum `lorem-ipsum`
 - IMPROVE: Lorem ipsum `lorem-ipsum`
 
-## Authors & Contributors
+## 🤖Authors & Contributors
 - Developer #01 
 - Developer #02
 - Developer #03
 
-## License
+## 🚨License
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed sapien quam. Sed dapibus est id enim facilisis, at posuere turpis adipiscing. Quisque sit amet dui dui.
